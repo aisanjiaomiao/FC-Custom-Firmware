@@ -1,5 +1,10 @@
 ## JHEMCU F4 NOXE V3 V2 SPI ELRS
 
+### 固件
+
+[JHEF411SX1280](../betaflight/obj/)
+
+
 ### 映射参考
 
 | SX1280             | F411 | old define    | new define                  |
