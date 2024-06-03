@@ -1,5 +1,7 @@
 ## OMNIBUS F405 V3 SPI ELRS
 
+> 目前存在RSSI稳定性问题，不清楚是什么原因，总提示RSSI信号弱
+
 ### 固件
 
 ### 映射参考
@@ -14,3 +16,5 @@
 | NRESET(NRST)       | PA9  | UART1_TX_PIN   | RX_SPI_EXPRESSLRS_RESET_PIN |
 | EXIT(DIO1)         | A00  | ADC_RSSI       | RX_SPI_EXTI_PIN             |
 | LED                | PB5  | RX_SPI_LED_PIN |                             |
+
+![](./img/20240603090315.png)

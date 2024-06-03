@@ -16,3 +16,9 @@
 | BUSY               | PB1  | ADC_RSSI_PIN  | RX_SPI_EXPRESSLRS_BUSY_PIN  |
 | NRESET(NRST)       | PB9  | I2C1_SDA_PIN  | RX_SPI_EXPRESSLRS_RESET_PIN |
 | DIO1               | PA15 | LED_STRIP_PIN | RX_SPI_EXTI_PIN             |
+
+
+![](./img/20240603090338.png)
+
+![](./img/20240603090301.png)
+

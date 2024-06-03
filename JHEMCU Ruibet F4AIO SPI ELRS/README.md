@@ -24,3 +24,6 @@ resource SERIAL_RX 2 none
 resource RX_SPI_EXPRESSLRS_BUSY 1 A03
 save
 ```
+
+
+![](./img/20240603090325.png)
