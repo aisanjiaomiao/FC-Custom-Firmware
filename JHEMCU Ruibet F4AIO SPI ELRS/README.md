@@ -1,5 +1,7 @@
 ## JHEMCU Ruibet F4AIO SPI ELRS
 
+适用于精简版飞控，将原先Flash空闲位置进行焊接
+
 ### 固件
 
 [JHEF411SX1280](../betaflight/obj/)
